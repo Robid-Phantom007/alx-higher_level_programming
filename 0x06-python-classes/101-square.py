@@ -2,6 +2,7 @@
 # 101-square.py
 """define a class Square."""
 
+
 class Square:
     """ Square class defined
         Attributes:

@@ -2,6 +2,7 @@
 # 100-singly_linked_list.py
 """Class for Node"""
 
+
 class Node:
     """ represent a node in a singly linked list
         Attributes:
