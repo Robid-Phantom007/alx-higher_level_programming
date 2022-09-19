@@ -1,10 +1,6 @@
 #!/usr/bin/python3
 # 1-rectangle.py
-"""
-
-Definition of a Rectangle class
-
-"""
+""" Definition of a Rectangle class """
 
 
 class Rectangle:
