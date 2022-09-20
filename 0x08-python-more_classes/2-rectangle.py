@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 2-rectangle.py 
+# 2-rectangle.py
 """
 A module of a class that defines a Rectangle
 
@@ -8,7 +8,7 @@ A module of a class that defines a Rectangle
 
 class Rectangle:
     """
-    Class that defines a rectangle 
+    Class that defines a rectangle
     """
 
     def __init__(self, width=0, height=0):
