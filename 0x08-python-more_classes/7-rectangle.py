@@ -4,13 +4,12 @@
 
 A module of a class that defines a Rectangle
 
-
 """
 
 
 class Rectangle:
     """
-    Class that defines a rectangle 
+    Class that defines a rectangle
     """
 
     number_of_instances = 0
