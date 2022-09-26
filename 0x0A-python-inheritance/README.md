@@ -1,6 +1,6 @@
 # Python - Inheritance
 
-## General :page:
+## General :page_with_curl:
 * Why Python programming is awesome
 * What is a superclass, baseclass or parentclass
 * What is a subclass
@@ -14,7 +14,7 @@
 * What is the purpose of inheritance
 * What are, when and how to use isinstance, issubclass, type and super built-in functions
 
-## Requirements :page:
+## Requirements :page_with_curl:
 ### Python Scripts
 * Allowed editors: vi, vim, emacs
 * All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -56,4 +56,4 @@
 | `10-square.py` | Class `Square` that inherits from `Rectangle` |
 | `11-square.py` | Class `Square` that inherits from `Rectangle`, with `str()` method |
 | `100-my_int.py` | Class `MyInt` that inhertis from `int`. Its `==` and `!=` operators are inverted |
-| `101-add_attribute.py` | Function that adds a new attribute to an object if it's possible |
+| `101-add_attribute.py` | Function that adds a new attribute to an object if it's possible |!
