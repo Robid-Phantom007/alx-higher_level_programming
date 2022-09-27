@@ -39,7 +39,7 @@ Project on Python Input/Output
 * A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 * We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 
-## Files :heavy_mark_check:
+## Files :heavy_check_mark:
 
 | Filename | Functions |
 | ----------- | ----------------------- |
