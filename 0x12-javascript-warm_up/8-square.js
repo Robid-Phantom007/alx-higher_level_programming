@@ -10,5 +10,5 @@ if (num) {
 } else if (num < 0) {
   console.log('');
 } else {
-  console.log('Missing size');
+  console.log("Missing size");
 }
