@@ -21,7 +21,7 @@ What you should learn from this project:
 * How to manipulate dictionary
 * How to import a file
 
-## Requirements :page_with-curl:
+## Requirements :page_with_curl:
 * Allowed editors: vi, vim, emacs
 * All your files will be interpreted on Ubuntu 20.04 LTS using node (version 14.x)
 * All your files should end with a new line
@@ -31,7 +31,7 @@ What you should learn from this project:
 * All your files must be executable
 * The length of your files will be tested using wc
 
-## Task :heavy_check_mark:
+## Tasks :heavy_check_mark:
 
 ---
 
@@ -93,4 +93,4 @@ What you should learn from this project:
 ---
 
 ## Author :black_nib:
-* Dibor Solomon 
+* Dibor Solomon <https://github.com/Robid-Phantom007>
